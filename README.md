@@ -1,7 +1,6 @@
 # Advance_Algorithms-week4
 Week 4 Assignment
 
-
 Raw Data
 
 1. MANIFEST.csv -- Source data / Raw Data
@@ -9,7 +8,7 @@ Raw Data
 
 Processed Data
 
-1. feature_importances.csv -- Feature importance
+1. train_features.csv -- Feature training
 2. test_labels.csv -- test labels data
 3. test_features.csv -- Test features Data
 4. train_labels.csv-- Training labels for the models
