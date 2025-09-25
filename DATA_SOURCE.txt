@@ -1,0 +1,3 @@
+Raw image subset generated from scikit-learn 'digits' dataset (public).
+Each class (0-9) includes 40 images saved as 64x64 grayscale PNGs.
+Source: scikit-learn datasets (https://scikit-learn.org)
